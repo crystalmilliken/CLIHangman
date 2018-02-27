@@ -1,3 +1,4 @@
+//creates a letter object, returns either the letter or an underscore
 function Letter(currentLetter) {
     this.currentLetter = currentLetter;
     this.guessed = false;
